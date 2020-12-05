@@ -77,7 +77,7 @@
 #define STRING_CONFIG_H_AUTHOR "(DaHai, Auto Bed Level)" // Who made the changes. DaHai: Change if you wish - informational only
 #define SHOW_BOOTSCREEN
 #define STRING_SPLASH_LINE1 "1.1.9" // will be shown during bootup in line 1
-#define STRING_SPLASH_LINE2 "DaHai Auto Bed Level"         // will be shown during bootup in line 2. DaHai - Change if you wish - informational only
+#define STRING_SPLASH_LINE2 "Ray's Kossel"         // will be shown during bootup in line 2. DaHai - Change if you wish - informational only
 
 /**
  * *** VENDORS PLEASE READ ***
